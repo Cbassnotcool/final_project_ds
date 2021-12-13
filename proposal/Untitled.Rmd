@@ -1,0 +1,25 @@
+---
+title: "Project Proposal"
+output: html_notebook
+---
+
+## Section 1. Introduction
+
+The purpose of this project is to explore forest data of my favorite country, Japan.
+
+The three main points we are going to explore are
+- Forest Area
+- Number of Trees
+- Percentage of land covered by forest
+
+The plan is to use the following packages
+
+
+**library(tidyverse)** <br>
+**library(ggplot2)** <br>
+**library(scales)** <br>
+**loibrary(lubridate)** <br>
+**library(plotly)** <br>
+**library(ggthemes)** <br>
+**library(extrafont)** <br>
+**library(ggpubr)** <br>
